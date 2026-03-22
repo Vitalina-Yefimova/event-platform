@@ -1,0 +1,7 @@
+{
+  "name": "event-platform",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}
